@@ -1,9 +1,0 @@
-{
-  "vms": [
-    {
-      "name": "web",
-      "running": true,
-      "agent_connected": true
-    }
-  ]
-}
